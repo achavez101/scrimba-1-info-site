@@ -1,4 +1,4 @@
-# cpbPR2Aq
+# Scrimba Info Site from Tutorial Code Along
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
